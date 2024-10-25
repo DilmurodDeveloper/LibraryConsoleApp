@@ -1,0 +1,55 @@
+[
+  {
+    "Id": 1,
+    "FirstName": "Dilmurod",
+    "LastName": "Madirimov",
+    "Age": 22,
+    "Login": "DilmurodDeveloper",
+    "Password": "Dilmurod123",
+    "BorrowedBooks": [
+      {
+        "Id": 5,
+        "Title": "Pride and Prejudice",
+        "Genre": "Romance",
+        "Author": "Jane Austen",
+        "TotalQuantity": 8,
+        "AvailableQuantity": 8,
+        "BorrowedBy": [
+          "Dilmurod Madirimov"
+        ]
+      },
+      {
+        "Id": 44,
+        "Title": "Medea",
+        "Genre": "Tragedy",
+        "Author": "Euripides",
+        "TotalQuantity": 5,
+        "AvailableQuantity": 4,
+        "BorrowedBy": [
+          "Dilmurod Madirimov"
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "FirstName": "Artur",
+    "LastName": "Abdullayev",
+    "Age": 23,
+    "Login": "ArturDev",
+    "Password": "Artur123",
+    "BorrowedBooks": [
+      {
+        "Id": 20,
+        "Title": "Angels & Demons",
+        "Genre": "Mystery",
+        "Author": "Dan Brown",
+        "TotalQuantity": 10,
+        "AvailableQuantity": 9,
+        "BorrowedBy": [
+          "Artur Abdullayev"
+        ]
+      }
+    ]
+  }
+]

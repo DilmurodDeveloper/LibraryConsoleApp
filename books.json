@@ -1,0 +1,458 @@
+[
+  {
+    "Id": 1,
+    "Title": "The Great Gatsby",
+    "Genre": "Fiction",
+    "Author": "F. Scott Fitzgerald",
+    "TotalQuantity": 5,
+    "AvailableQuantity": 7,
+    "BorrowedBy": []
+  },
+  {
+    "Id": 2,
+    "Title": "To Kill a Mockingbird",
+    "Genre": "Fiction",
+    "Author": "Harper Lee",
+    "TotalQuantity": 7,
+    "AvailableQuantity": 7,
+    "BorrowedBy": []
+  },
+  {
+    "Id": 3,
+    "Title": "1984",
+    "Genre": "Dystopian",
+    "Author": "George Orwell",
+    "TotalQuantity": 10,
+    "AvailableQuantity": 10,
+    "BorrowedBy": []
+  },
+  {
+    "Id": 4,
+    "Title": "Moby Dick",
+    "Genre": "Adventure",
+    "Author": "Herman Melville",
+    "TotalQuantity": 6,
+    "AvailableQuantity": 6,
+    "BorrowedBy": []
+  },
+  {
+    "Id": 5,
+    "Title": "Pride and Prejudice",
+    "Genre": "Romance",
+    "Author": "Jane Austen",
+    "TotalQuantity": 8,
+    "AvailableQuantity": 8,
+    "BorrowedBy": [
+      "Dilmurod Madirimov"
+    ]
+  },
+  {
+    "Id": 6,
+    "Title": "War and Peace",
+    "Genre": "Historical",
+    "Author": "Leo Tolstoy",
+    "TotalQuantity": 4,
+    "AvailableQuantity": 4,
+    "BorrowedBy": []
+  },
+  {
+    "Id": 7,
+    "Title": "The Odyssey",
+    "Genre": "Epic",
+    "Author": "Homer",
+    "TotalQuantity": 9,
+    "AvailableQuantity": 9,
+    "BorrowedBy": []
+  },
+  {
+    "Id": 8,
+    "Title": "The Iliad",
+    "Genre": "Epic",
+    "Author": "Homer",
+    "TotalQuantity": 10,
+    "AvailableQuantity": 10,
+    "BorrowedBy": []
+  },
+  {
+    "Id": 9,
+    "Title": "Crime and Punishment",
+    "Genre": "Philosophical Fiction",
+    "Author": "Fyodor Dostoevsky",
+    "TotalQuantity": 5,
+    "AvailableQuantity": 5,
+    "BorrowedBy": []
+  },
+  {
+    "Id": 10,
+    "Title": "The Brothers Karamazov",
+    "Genre": "Philosophical Fiction",
+    "Author": "Fyodor Dostoevsky",
+    "TotalQuantity": 7,
+    "AvailableQuantity": 7,
+    "BorrowedBy": []
+  },
+  {
+    "Id": 11,
+    "Title": "Anna Karenina",
+    "Genre": "Romance",
+    "Author": "Leo Tolstoy",
+    "TotalQuantity": 6,
+    "AvailableQuantity": 6,
+    "BorrowedBy": []
+  },
+  {
+    "Id": 12,
+    "Title": "The Catcher in the Rye",
+    "Genre": "Fiction",
+    "Author": "J.D. Salinger",
+    "TotalQuantity": 8,
+    "AvailableQuantity": 8,
+    "BorrowedBy": []
+  },
+  {
+    "Id": 13,
+    "Title": "Brave New World",
+    "Genre": "Dystopian",
+    "Author": "Aldous Huxley",
+    "TotalQuantity": 10,
+    "AvailableQuantity": 10,
+    "BorrowedBy": []
+  },
+  {
+    "Id": 14,
+    "Title": "The Lord of the Rings",
+    "Genre": "Fantasy",
+    "Author": "J.R.R. Tolkien",
+    "TotalQuantity": 10,
+    "AvailableQuantity": 10,
+    "BorrowedBy": []
+  },
+  {
+    "Id": 15,
+    "Title": "Harry Potter and the Sorcerer's Stone",
+    "Genre": "Fantasy",
+    "Author": "J.K. Rowling",
+    "TotalQuantity": 12,
+    "AvailableQuantity": 12,
+    "BorrowedBy": []
+  },
+  {
+    "Id": 16,
+    "Title": "Harry Potter and the Chamber of Secrets",
+    "Genre": "Fantasy",
+    "Author": "J.K. Rowling",
+    "TotalQuantity": 12,
+    "AvailableQuantity": 12,
+    "BorrowedBy": []
+  },
+  {
+    "Id": 17,
+    "Title": "Harry Potter and the Prisoner of Azkaban",
+    "Genre": "Fantasy",
+    "Author": "J.K. Rowling",
+    "TotalQuantity": 12,
+    "AvailableQuantity": 12,
+    "BorrowedBy": []
+  },
+  {
+    "Id": 18,
+    "Title": "The Hobbit",
+    "Genre": "Fantasy",
+    "Author": "J.R.R. Tolkien",
+    "TotalQuantity": 9,
+    "AvailableQuantity": 9,
+    "BorrowedBy": []
+  },
+  {
+    "Id": 19,
+    "Title": "The Da Vinci Code",
+    "Genre": "Mystery",
+    "Author": "Dan Brown",
+    "TotalQuantity": 10,
+    "AvailableQuantity": 10,
+    "BorrowedBy": []
+  },
+  {
+    "Id": 20,
+    "Title": "Angels & Demons",
+    "Genre": "Mystery",
+    "Author": "Dan Brown",
+    "TotalQuantity": 10,
+    "AvailableQuantity": 9,
+    "BorrowedBy": [
+      "Artur Abdullayev"
+    ]
+  },
+  {
+    "Id": 21,
+    "Title": "Inferno",
+    "Genre": "Mystery",
+    "Author": "Dan Brown",
+    "TotalQuantity": 10,
+    "AvailableQuantity": 10,
+    "BorrowedBy": []
+  },
+  {
+    "Id": 22,
+    "Title": "The Shining",
+    "Genre": "Horror",
+    "Author": "Stephen King",
+    "TotalQuantity": 6,
+    "AvailableQuantity": 6,
+    "BorrowedBy": []
+  },
+  {
+    "Id": 23,
+    "Title": "It",
+    "Genre": "Horror",
+    "Author": "Stephen King",
+    "TotalQuantity": 8,
+    "AvailableQuantity": 8,
+    "BorrowedBy": []
+  },
+  {
+    "Id": 24,
+    "Title": "The Stand",
+    "Genre": "Horror",
+    "Author": "Stephen King",
+    "TotalQuantity": 5,
+    "AvailableQuantity": 5,
+    "BorrowedBy": []
+  },
+  {
+    "Id": 25,
+    "Title": "Dracula",
+    "Genre": "Gothic Fiction",
+    "Author": "Bram Stoker",
+    "TotalQuantity": 7,
+    "AvailableQuantity": 7,
+    "BorrowedBy": []
+  },
+  {
+    "Id": 26,
+    "Title": "Frankenstein",
+    "Genre": "Gothic Fiction",
+    "Author": "Mary Shelley",
+    "TotalQuantity": 8,
+    "AvailableQuantity": 8,
+    "BorrowedBy": []
+  },
+  {
+    "Id": 27,
+    "Title": "The Picture of Dorian Gray",
+    "Genre": "Philosophical Fiction",
+    "Author": "Oscar Wilde",
+    "TotalQuantity": 6,
+    "AvailableQuantity": 6,
+    "BorrowedBy": []
+  },
+  {
+    "Id": 28,
+    "Title": "The Count of Monte Cristo",
+    "Genre": "Adventure",
+    "Author": "Alexandre Dumas",
+    "TotalQuantity": 7,
+    "AvailableQuantity": 7,
+    "BorrowedBy": []
+  },
+  {
+    "Id": 29,
+    "Title": "Les Misérables",
+    "Genre": "Historical Fiction",
+    "Author": "Victor Hugo",
+    "TotalQuantity": 6,
+    "AvailableQuantity": 6,
+    "BorrowedBy": []
+  },
+  {
+    "Id": 30,
+    "Title": "The Three Musketeers",
+    "Genre": "Adventure",
+    "Author": "Alexandre Dumas",
+    "TotalQuantity": 8,
+    "AvailableQuantity": 8,
+    "BorrowedBy": []
+  },
+  {
+    "Id": 31,
+    "Title": "A Tale of Two Cities",
+    "Genre": "Historical Fiction",
+    "Author": "Charles Dickens",
+    "TotalQuantity": 6,
+    "AvailableQuantity": 6,
+    "BorrowedBy": []
+  },
+  {
+    "Id": 32,
+    "Title": "Great Expectations",
+    "Genre": "Fiction",
+    "Author": "Charles Dickens",
+    "TotalQuantity": 7,
+    "AvailableQuantity": 7,
+    "BorrowedBy": []
+  },
+  {
+    "Id": 33,
+    "Title": "Oliver Twist",
+    "Genre": "Fiction",
+    "Author": "Charles Dickens",
+    "TotalQuantity": 8,
+    "AvailableQuantity": 8,
+    "BorrowedBy": []
+  },
+  {
+    "Id": 34,
+    "Title": "David Copperfield",
+    "Genre": "Fiction",
+    "Author": "Charles Dickens",
+    "TotalQuantity": 9,
+    "AvailableQuantity": 9,
+    "BorrowedBy": []
+  },
+  {
+    "Id": 35,
+    "Title": "Jane Eyre",
+    "Genre": "Romance",
+    "Author": "Charlotte Brontë",
+    "TotalQuantity": 5,
+    "AvailableQuantity": 4,
+    "BorrowedBy": []
+  },
+  {
+    "Id": 36,
+    "Title": "Wuthering Heights",
+    "Genre": "Romance",
+    "Author": "Emily Brontë",
+    "TotalQuantity": 6,
+    "AvailableQuantity": 6,
+    "BorrowedBy": []
+  },
+  {
+    "Id": 37,
+    "Title": "Don Quixote",
+    "Genre": "Adventure",
+    "Author": "Miguel de Cervantes",
+    "TotalQuantity": 8,
+    "AvailableQuantity": 8,
+    "BorrowedBy": []
+  },
+  {
+    "Id": 38,
+    "Title": "The Divine Comedy",
+    "Genre": "Epic Poetry",
+    "Author": "Dante Alighieri",
+    "TotalQuantity": 7,
+    "AvailableQuantity": 8,
+    "BorrowedBy": []
+  },
+  {
+    "Id": 39,
+    "Title": "Madame Bovary",
+    "Genre": "Fiction",
+    "Author": "Gustave Flaubert",
+    "TotalQuantity": 6,
+    "AvailableQuantity": 6,
+    "BorrowedBy": []
+  },
+  {
+    "Id": 40,
+    "Title": "Ulysses",
+    "Genre": "Modernist",
+    "Author": "James Joyce",
+    "TotalQuantity": 5,
+    "AvailableQuantity": 4,
+    "BorrowedBy": []
+  },
+  {
+    "Id": 41,
+    "Title": "The Sound and the Fury",
+    "Genre": "Modernist",
+    "Author": "William Faulkner",
+    "TotalQuantity": 5,
+    "AvailableQuantity": 5,
+    "BorrowedBy": []
+  },
+  {
+    "Id": 42,
+    "Title": "One Hundred Years of Solitude",
+    "Genre": "Magical Realism",
+    "Author": "Gabriel García Márquez",
+    "TotalQuantity": 8,
+    "AvailableQuantity": 8,
+    "BorrowedBy": []
+  },
+  {
+    "Id": 43,
+    "Title": "Love in the Time of Cholera",
+    "Genre": "Romance",
+    "Author": "Gabriel García Márquez",
+    "TotalQuantity": 6,
+    "AvailableQuantity": 6,
+    "BorrowedBy": []
+  },
+  {
+    "Id": 44,
+    "Title": "Medea",
+    "Genre": "Tragedy",
+    "Author": "Euripides",
+    "TotalQuantity": 5,
+    "AvailableQuantity": 4,
+    "BorrowedBy": [
+      "Dilmurod Madirimov"
+    ]
+  },
+  {
+    "Id": 45,
+    "Title": "The Oresteia",
+    "Genre": "Tragedy",
+    "Author": "Aeschylus",
+    "TotalQuantity": 4,
+    "AvailableQuantity": 4,
+    "BorrowedBy": []
+  },
+  {
+    "Id": 46,
+    "Title": "The Aeneid",
+    "Genre": "Epic",
+    "Author": "Virgil",
+    "TotalQuantity": 7,
+    "AvailableQuantity": 7,
+    "BorrowedBy": []
+  },
+  {
+    "Id": 47,
+    "Title": "The Metamorphosis",
+    "Genre": "Surrealism",
+    "Author": "Franz Kafka",
+    "TotalQuantity": 8,
+    "AvailableQuantity": 8,
+    "BorrowedBy": []
+  },
+  {
+    "Id": 48,
+    "Title": "The Trial",
+    "Genre": "Surrealism",
+    "Author": "Franz Kafka",
+    "TotalQuantity": 5,
+    "AvailableQuantity": 5,
+    "BorrowedBy": []
+  },
+  {
+    "Id": 49,
+    "Title": "In Search of Lost Time",
+    "Genre": "Modernist",
+    "Author": "Marcel Proust",
+    "TotalQuantity": 6,
+    "AvailableQuantity": 6,
+    "BorrowedBy": []
+  },
+  {
+    "Id": 50,
+    "Title": "The Stranger",
+    "Genre": "Philosophical Fiction",
+    "Author": "Albert Camus",
+    "TotalQuantity": 7,
+    "AvailableQuantity": 8,
+    "BorrowedBy": []
+  }
+]
